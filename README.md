@@ -23,7 +23,6 @@ Proiectul integrează următoarele funcționalități obligatorii și adițional
 | **Grupare și Agregare (Pandas)**  | Analiza consumului mediu pe paliere de temperatură și ferestre calendaristice.                 |   ✅   |
 | **Utilizarea Funcțiilor de Grup** | Aplicarea metodelor de tip groupby().transform() pentru normalizarea consumului.                 |   ✅   |
 | **Scikit-learn (Clustering)**      | Segmentarea automată a zilelor în profiluri de consum (Optim/Critic) prin K-Means.             |   ✅   |
-| **Scikit-learn (Regresie Log.)**   | Predicția probabilității ca o zi viitoare să depășească pragul de consum critic.          |   ✅   |
 | **Statsmodels (Regr. Multiplă)**  | Analiza statistică a impactului temperaturii și a Cloud Cover asupra consumului.               |   ✅   |
 | **XGBoost (Forecast)**             | Implementarea modelului de Gradient Boosting pentru prognoza consumului pe 7 zile.               |   ✅   |
 
