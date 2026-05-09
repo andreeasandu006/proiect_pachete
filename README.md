@@ -51,8 +51,7 @@ Proiectul integrează următoarele funcționalități obligatorii și adițional
 ## 🚀 Instrucțiuni de Instalare și Rulare
 
 1. **Clonarea proiectului:**
-   ```bash
-   git clone [https://github.com/andreeasandu006/proiect_pachete.git](https://github.com/andreeasandu006/proiect_pachete.git)
+   git clone https://github.com/andreeasandu006/proiect_pachete.git
    cd proiect_pachete
 2. **Instalarea dependențelor:**
    pip install -r requirements.txt
